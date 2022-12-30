@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ASoldo
+- 👋 Hi, I’m Rootster
 - 👀 I’m interested in frontend and backend programming.
 - 🌱 I’m currently learning GoLang.
 - 🤹 I'm passionate about frontend technologies like Vue3/Nuxt3, Backend technologies like Go, Unreal Engine 5 for next gen gaming and visualisations.
