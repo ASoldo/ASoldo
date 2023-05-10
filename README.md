@@ -6,7 +6,7 @@
 - 📫 How to reach me: 尺ㄖㄖㄒ丂ㄒ乇尺@protonmail.com
 
 
-[![My Skills](https://skillicons.dev/icons?i=go,rust,html,css,js,ts,wasm,tailwindcss,vue,nuxt,postgres,mongodb,vim,neovim,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,html,css,js,ts,wasm,tailwindcss,vue,nuxt,postgres,mongodb,vim,neovim,vite,git,github,gitlab,blender,unreal)](https://skillicons.dev)
 
 <!---
 ASoldo/ASoldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
