@@ -12,6 +12,38 @@
 
 I'm always eager to connect and explore new opportunities in this ever-evolving tech landscape. Feel free to reach out if you're interested in bringing a passionate, experienced, and dedicated software developer onto your team.
 
+<details>
+  <summary>🧳 Work Experience</summary>
+
+  - **Ericsson**
+    - Software Developer (Full-time)
+    - May 2022 - Present (1 yr 1 mo)
+    - Zagreb
+    - Role: Full-stack Developer
+
+  - **Sintezis**
+    - Technical Artist
+    - Oct 2016 - May 2017 (8 mos)
+    - Role: Programming and Art Implementation
+
+  - **Virtualni Koncepti (Exordium Games)**
+    - Technical Artist/Programmer
+    - Nov 2014 - Oct 2016 (2 yrs)
+    - Zagreb
+    - Role: Lead developer on game projects
+
+  - **Exordium Games**
+    - Technical Artist
+    - Nov 2014 - Oct 2016 (2 yrs)
+    - Zagreb
+    - Developed games: Bear with me: Episode one
+
+  - **Meliá Hotels International**
+    - Web Designer
+    - 2010 - 2012 (2 yrs)
+</details>
+
+
 
 [![My Skills](https://skillicons.dev/icons?i=linux,go,docker,rust,html,css,js,ts,wasm,tailwindcss,vite,vue,nuxt,postgres,mongodb,graphql,vim,neovim,git,github,gitlab,blender,threejs,unreal)](https://skillicons.dev)
 
