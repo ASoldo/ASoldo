@@ -1,9 +1,16 @@
-- 🐓 Hi, I’m Rootster
-- 👀 I’m interested in frontend and backend programming.
-- 🌱 I’m currently learning GoLang and RustLang.
-- 🤹 I'm passionate about frontend technologies like Vue3/Nuxt3, Backend technologies like Go, Unreal Engine 5 for next gen gaming and visualisations.
-- 💞️ I’m looking to collaborate on interesting projects.
+- 🐓 Hi, I’m Andrej "Rootster" Soldo, a software developer currently shaping the future of tech at Ericsson. My journey has been rich and diverse, from game development to full-stack web design, and I'm not done yet.
+
+- 👀 I’m proficient in both frontend and backend programming, with a flair for languages like C, Go, Rust, and frameworks like Nuxt.js. I blend art and programming, having honed my skills as a technical artist in the gaming industry.
+
+- 🌱 Continually expand my knowledge base and I’m currently learning and refining my expertise in GoLang and RustLang.
+
+- 🤹‍♀️ My passion extends to both ends of the tech spectrum. On the frontend, I'm excited about Vue3/Nuxt3. On the backend, Go is my go-to. I also have a keen interest in the Unreal Engine 5 for next-gen gaming and visualizations.
+
+- 💞 I'm open to collaborating on exciting projects that challenge the status quo and push the boundaries of what's possible in tech. I bring to the table a strong foundation in programming, touch typing, and a unique blend of artistic and technical skills.
+
 - 📫 How to reach me: soldo.andrej@gmail.com
+
+I'm always eager to connect and explore new opportunities in this ever-evolving tech landscape. Feel free to reach out if you're interested in bringing a passionate, experienced, and dedicated software developer onto your team.
 
 
 [![My Skills](https://skillicons.dev/icons?i=linux,go,docker,rust,html,css,js,ts,wasm,tailwindcss,vite,vue,nuxt,postgres,mongodb,graphql,vim,neovim,git,github,gitlab,blender,threejs,unreal)](https://skillicons.dev)
