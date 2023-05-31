@@ -27,11 +27,11 @@ I'm always eager to connect and explore new opportunities in this ever-evolving 
     - Zagreb
     - Role: Full-stack Developer
   
-   - **Calzedonia Group**
-    - Web Development & R&D
-    - May 2020 - Nov 2021 (1y)
-    - Zagreb
-    - Role: Software Developer
+  - **Calzedonia Group**
+   - Web Development & R&D
+   - May 2020 - Nov 2021 (1y)
+   - Zagreb
+   - Role: Software Developer
   
   - **Distributed Things**
     - Team Lead, Game Development & R&D
