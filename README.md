@@ -20,6 +20,24 @@ I'm always eager to connect and explore new opportunities in this ever-evolving 
     - May 2022 - Present (1 yr 1 mo)
     - Zagreb
     - Role: Full-stack Developer
+  
+  - **Digital Arena**
+    - Software Developer (Full-time)
+    - Jan 2022 - Present (1 yr 6 mo)
+    - Zagreb
+    - Role: Full-stack Developer
+  
+   - **Calzedonia Group**
+    - Web Development & R&D
+    - May 2020 - Nov 2021 (1y)
+    - Zagreb
+    - Role: Software Developer
+  
+  - **Distributed Things**
+    - Team Lead, Game Development & R&D
+    - May 2017 - Nov 2020 (3y)
+    - Zagreb
+    - Role: Software Developer
 
   - **Sintezis**
     - Technical Artist
