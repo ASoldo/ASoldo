@@ -76,7 +76,7 @@ I'm always eager to connect and explore new opportunities in this ever-evolving 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ASoldo&theme=transparent" />
   </a>
   <a href="https://github.com/ASoldo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASoldo&langs_count=15&exclude_repo=&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASoldo&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 
