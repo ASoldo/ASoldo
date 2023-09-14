@@ -12,6 +12,7 @@
 
 I'm always eager to connect and explore new opportunities in this ever-evolving tech landscape. Feel free to reach out if you're interested in bringing a passionate, experienced, and dedicated software developer onto your team.
 
+
 <details>
   <summary>🧳 Work Experience</summary>
 
