@@ -63,7 +63,7 @@ I'm always eager to connect and explore new opportunities in this ever-evolving 
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,go,docker,rust,html,css,js,ts,wasm,tailwindcss,vite,vue,nuxt,postgres,mongodb,graphql,vim,neovim,git,github,gitlab,blender,threejs,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,go,docker,rust,html,css,lua,js,ts,wasm,tailwindcss,vite,vue,nuxt,postgres,mongodb,graphql,vim,neovim,git,github,gitlab,blender,threejs,unreal)](https://skillicons.dev)
 
 <p align="center">
   <a href="https://github.com/ASoldo">
