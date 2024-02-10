@@ -1,10 +1,10 @@
-- 🐓 Hi, I’m Andrej "RootsterGG" Soldo, a software developer currently shaping the future of tech at RootsterGG. My journey has been rich and diverse, from game development to web full-stack, and I'm not done yet.
+- 🐓 Hi, I’m Andrej "Rootster" Soldo, a software developer currently shaping the future of tech at [Rootster](https://rootster.xyz). My journey has been rich and diverse, from game development to web full-stack, and I'm not done yet.
 
 - 👀 I’m proficient in both frontend and backend programming, with a flair for languages like C, Go, Rust, and frameworks like Nuxt.js. I blend art and programming, having honed my skills as a technical artist in the gaming industry.
 
 - 🌱 Continually expand my knowledge base and I’m currently learning and refining my expertise in GoLang and RustLang.
 
-- 🤹‍♀️ My passion extends to both ends of the tech spectrum. On the frontend, I'm excited about Vue3/Nuxt3. On the backend, Go is my go-to. I also have a keen interest in the Unreal Engine 5 for next-gen gaming and visualizations.
+- 🤹‍♀️ My passion extends to both ends of the tech spectrum. On the frontend, I'm excited about Vue3/Nuxt3. On the backend, Go is my way-to-go. I also have a keen interest in the Unreal Engine 5 for next-gen gaming and visualizations.
 
 - 💞 I'm open to collaborating on exciting projects that challenge the status quo and push the boundaries of what's possible in tech. I bring to the table a strong foundation in programming, touch typing, and a unique blend of artistic and technical skills.
 
@@ -86,8 +86,3 @@ I'm always eager to connect and explore new opportunities in this ever-evolving 
     <img src="https://komarev.com/ghpvc/?username=ASoldo&color=blue&style=flat)" />
   </a>
 </p>
-
-<!---
-ASoldo/ASoldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
