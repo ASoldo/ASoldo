@@ -1,4 +1,4 @@
-- 🐓 Hi, I’m Andrej "Rootster" Soldo, a software developer currently shaping the future of tech at [Rootster](https://rootster.xyz). My journey has been rich and diverse, from game development to web full-stack, and I'm not done yet.
+- 🐓 Hi, I’m Andrej `Rootster` Soldo, a software developer currently shaping the future of tech at [Rootster](https://rootster.xyz). My journey has been rich and diverse, from game development to web full-stack, and I'm not done yet.
 
 - 👀 I’m proficient in both frontend and backend programming, with a flair for languages like C, Go, Rust, and frameworks like Nuxt.js. I blend art and programming, having honed my skills as a technical artist in the gaming industry.
 
