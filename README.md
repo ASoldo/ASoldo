@@ -64,7 +64,7 @@ I'm always eager to connect and explore new opportunities in this ever-evolving 
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,vim,neovim,bash,go,kubernetes,docker,rust,lua,markdown,html,css,alpinejs,js,ts,wasm,tailwindcss,vite,vue,nuxt,htmx,surrealdb,supabase,postgres,mongodb,graphql,grafana,git,github,gitlab,blender,threejs,unreal,figma,)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/icons?i=aws,linux,vim,neovim,bash,go,kubernetes,docker,rust,lua,markdown,html,css,alpinejs,js,ts,wasm,tailwindcss,vite,vue,nuxt,htmx,surrealdb,supabase,postgres,mongodb,graphql,grafana,git,github,gitlab,blender,threejs,unreal,figma,)](https://go-skill-icons.vercel.app)
 
 <p align="center">
   <a href="https://github.com/ASoldo">
