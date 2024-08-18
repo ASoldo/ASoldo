@@ -82,7 +82,8 @@ I'm always eager to connect and explore new opportunities in this ever-evolving 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fasoldo&logo=leetcode&logoColor=yellow)](https://leetcode.com/asoldo/" />
-
+  <a href="https://leetcode/u/asoldo">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fasoldo&logo=leetcode&logoColor=yellow)](https://leetcode.com/asoldo/" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=ASoldo&color=blue&style=flat)" />
 </p>
